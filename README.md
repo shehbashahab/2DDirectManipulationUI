@@ -1,14 +1,12 @@
 # Assignment 3 - Direct Manipulation User Interface for a Simple 2D Image Compositor  
 
-Time spent: 5 hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
 
-* [x] The user can load one or more images (.jpg, and .pngformats are supported) individually from disk and display 
+* [x] The user can load one or more images (.jpg, and .pngformats are supported) individually from disk
 * [x] Images can be overlapping
-* [x] User should be able to select a single image and either move (translate), rotate or scale the image anywhere on the Canvas
+* [x] User should be able to select a single image and either move, rotate or scale the image anywhere on the Canvas
 * [x] The user should be able to select a single image and delete it from the Canvas
 * [x] The user should be able to control the stacking order of the images
 * [x] The user should be able to save the composition to a disk file
@@ -18,12 +16,12 @@ The following **required** functionality is completed:
 * Select an image using mouse. Yellow outline will appear indicating active selection.
 * Control stacking order using mouse selection. Active image is brought to the top of the screen.
 * Shortcut keys:
-  * D/d keys = delete selected image
-  * F/f keys = toggle full screen
-  * R/r keys = rotate selected images
-  * S/s keys = save frame (saves files in assignment3/bin)
-  * T/t = scale down selected image
-  * U/u = scale up selected image
+  * 'D', 'd' = delete selected image
+  * 'F', 'f' = toggle full screen
+  * 'R', 'r' = rotate selected images
+  * 'S', 's' = save frame (saves files in assignment3/bin)
+  * 'T', 't' = scale down selected image
+  * 'U', 'u' = scale up selected image
   * Up arrow key = move selected image up
   * Down arrow key = move selected image down
   * Right arrow key = move selected image to the right
