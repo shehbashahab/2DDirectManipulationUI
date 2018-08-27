@@ -1,4 +1,4 @@
-# Assignment 3 - Direct Manipulation User Interface for a Simple 2D Image Compositor  
+Direct Manipulation User Interface for a Simple 2D Image Compositor  
 
 ## User Stories
 
